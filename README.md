@@ -7,9 +7,21 @@
 <div align="center">
   <img align='center' src="https://ani-github.github.io/animegifs/haruhi/letsgo.gif" width="640">
 </div>
+<br>
+<div align="center">
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
+</div>
+
 - 🔭 I’m currently working on: VK-bot
-- 🌱 I’m currently learning: TypeScript
+- 🌱 I’m currently learning: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - 💬 Ask me about: 🎵
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have not read any book on programming...
@@ -43,6 +55,8 @@ ____
   
   </div>
 
+____
+
 ### **📊 Github Contribution Graph**
   <div align="center">
 
@@ -50,12 +64,16 @@ ____
 
   </div>
   
+____
+
 ### **🏆 Github Achievements**
   <div align="center">
 
 [![shiseni's trophy](https://github-profile-trophy.vercel.app/?username=shiseni&margin-w=10&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
   </div>
+
+____
 
 ### **🎶 Music is essential:**
   <div align="center">
