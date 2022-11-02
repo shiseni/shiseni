@@ -20,23 +20,29 @@
   
 </div>
 
-- 🔭 I’m currently working on: VK-bot
-- 🌱 I’m currently learning: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- 💬 Ask me about: 🎵
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have not read any book on programming...
+## <img src="https://media.tenor.com/btLg_WtV330AAAAC/milly-anime.gif" width="30"> A little about me...  
 
-## ℹ️&nbsp; Github Info
-### **🔎 Github Profile Details**
+```javascript
+const shiseni = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, PHP],
+  tools: [React, Node],
+  workspace: "Visual Studio Code",
+  currentProject: {
+    name: "VK-bot",
+    available: false
+  }
+}
+```
+
+## **🔎 Github Profile Details**
   <div align="center">
   
 [![shiseni's stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiseni&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
   </div>
 
-____
-
-### **⚡ Github Stats**
+## **⚡ Github Stats**
   <div align="center">
   
 [![shiseni's stats](https://github-readme-stats.vercel.app/api?username=shiseni&hide_border=true&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,36 +52,28 @@ ____
   
   </div>
 
-____
-
-### **🔥 Github Streaks**
+## **🔥 Github Streaks**
   <div align="center">
   
 [![shiseni's streaks](https://streak-stats.demolab.com/?user=shiseni&theme=radical&hide_border=true&stroke=00FFC8&fire=DD2727&dates=00D6F2&currStreakNum=00BE95&ring=DD2727&sideNums=DD2727&currStreakLabel=E3D60E&sideLabels=E3D60E)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
   </div>
 
-____
-
-### **📊 Github Contribution Graph**
+## **📊 Github Contribution Graph**
   <div align="center">
 
 [![shiseni's activity graph](https://activity-graph.herokuapp.com/graph?username=shiseni&bg_color=141321&color=06bac3&line=00FFC8&point=e05397&hide_border=true&title_color=ff0055&area_color=E3D60E)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   </div>
-  
-____
 
-### **🏆 Github Achievements**
+## **🏆 Github Achievements**
   <div align="center">
 
 [![shiseni's trophy](https://github-profile-trophy.vercel.app/?username=shiseni&margin-w=10&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
   </div>
 
-____
-
-### **🎶 Music is essential:**
+## **🎶 Music is essential:**
   <div align="center">
     <img src="https://media.tenor.com/R7RRaJNwFE0AAAAC/aharen-san-aharen-san-anime.gif" width="500">
   </div>
