@@ -83,3 +83,10 @@ const shiseni = {
   [![shiseni's spotify playing](https://spotify-github-profile.vercel.app/api/view?uid=teu3kkyqub1oa0im6ns2bcwte&cover_image=true&theme=default&show_offline=false&background_color=141321&bar_color=00b294&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   
   </div>
+
+## **🌐 Socials**
+  <div align="center">
+  
+[![shiseni's Discord](https://discord-readme-badge.vercel.app/api?id=257151906038677504)](https://github.com/Zyplos/discord-readme-badge)
+  
+  </div>
