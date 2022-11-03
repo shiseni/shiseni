@@ -41,7 +41,10 @@ const shiseni = {
 [![shiseni's stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiseni&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
   </div>
-
+  
+<details>
+	<summary>More details</summary>
+	
 ## **⚡ Github Stats**
   <div align="center">
   
@@ -73,6 +76,8 @@ const shiseni = {
 
   </div>
 
+</details>
+  
 ## **🎶 Music is essential:**
   <div align="center">
     <img src="https://media.tenor.com/R7RRaJNwFE0AAAAC/aharen-san-aharen-san-anime.gif" width="500">
