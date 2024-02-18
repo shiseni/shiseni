@@ -38,11 +38,7 @@ const shiseni = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [React, Node, Electron],
-  workspace: "Visual Studio Code",
-  currentProject: {
-    name: "Online store project",
-    available: false
-  }
+  workspace: "Visual Studio Code"
 }
 ```
 
@@ -89,9 +85,10 @@ const shiseni = {
 </details>
   
 ## **<img src="https://media.tenor.com/R7RRaJNwFE0AAAAC/aharen-san-aharen-san-anime.gif" width="30"> Music is essential:**
+
 <div align="center">
 
-| Last.fm | ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) |
+| ![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white) | ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) |
 | --- | --- |
 | [![shiseni's last.fm scrobbles](https://lastfm-recently-played.vercel.app/api?user=alex-ench)](https://www.last.fm/user/alex-ench) | [![shiseni's spotify playing](https://spotify-github-profile.vercel.app/api/view?uid=teu3kkyqub1oa0im6ns2bcwte&theme=compact&cover_image=true&theme=default&show_offline=false&background_color=141321&bar_color=00b294&bar_color_cover=true)](https://open.spotify.com/user/teu3kkyqub1oa0im6ns2bcwte?si=1118f13a8c4a49b7) |
 
@@ -101,6 +98,6 @@ const shiseni = {
 
 | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) |
 | --- | --- |
-| [![Discord Presence](https://lanyard.cnrad.dev/api/257151906038677504?bg=141321)](https://discord.com/users/257151906038677504) | [![Steam status](https://github-readme-steam-status.vercel.app/?steamid=76561198114887225)](https://steamcommunity.com/profiles/76561198114887225) |
+| [![Discord Presence](https://lanyard.cnrad.dev/api/257151906038677504?bg=141321)](https://discord.com/users/257151906038677504) | ![Steam](https://github-readme-steam-status.vercel.app/status/?steamid=76561198114887225&show_in_game_bg=true&show_recent_game_bg=false) |
 
 </div>
