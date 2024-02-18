@@ -98,6 +98,6 @@ const shiseni = {
 
 | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) |
 | --- | --- |
-| [![Discord Presence](https://lanyard.cnrad.dev/api/257151906038677504?bg=141321)](https://discord.com/users/257151906038677504) | ![Steam](https://github-readme-steam-status.vercel.app/status/?steamid=76561198114887225&show_in_game_bg=true&show_recent_game_bg=false) |
+| [![Discord Presence](https://lanyard.cnrad.dev/api/257151906038677504?bg=141321)](https://discord.com/users/257151906038677504) | [![Steam](https://github-readme-steam-status.vercel.app/status/?steamid=76561198114887225&show_in_game_bg=true&show_recent_game_bg=false)](https://steamcommunity.com/profiles/76561198114887225) |
 
 </div>
